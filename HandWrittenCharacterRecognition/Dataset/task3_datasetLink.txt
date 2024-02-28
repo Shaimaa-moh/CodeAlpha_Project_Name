@@ -1,0 +1,6 @@
+Because the data is too big to be uploaded on github , 
+
+link for dataset on the drive
+https://drive.google.com/file/d/1mkW9DYp55NIJ2KzadwwhcIXg_XxWXOFZ/view?usp=sharing  --> detect characters only 
+
+https://www.kaggle.com/datasets/nibinv23/iam-handwriting-word-database/data         --> detect words and characters
